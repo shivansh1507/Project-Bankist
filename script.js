@@ -294,7 +294,6 @@ slider();
 ///////////////////////////////////////
 ///////////////////////////////////////
 
-/*
 ///////////////////////////////////////
 // Selecting, Creating, and Deleting Elements
 
@@ -506,4 +505,4 @@ window.addEventListener('beforeunload', function (e) {
   console.log(e);
   e.returnValue = '';
 });
-*/
+
