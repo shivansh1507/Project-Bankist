@@ -296,7 +296,7 @@ slider();
 
 ///////////////////////////////////////
 // Selecting, Creating, and Deleting Elements
-
+/*
 // Selecting elements
 console.log(document.documentElement);
 console.log(document.head);
@@ -337,7 +337,7 @@ document
   
 ///////////////////////////////////////
 // Styles, Attributes and Classes
-  
+
 // Styles
 message.style.backgroundColor = '#37383d';
 message.style.width = '120%';
@@ -505,4 +505,5 @@ window.addEventListener('beforeunload', function (e) {
   console.log(e);
   e.returnValue = '';
 });
+*/
 
