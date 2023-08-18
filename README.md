@@ -34,25 +34,25 @@ Instant Loans: Users can access instant loans to fulfill their dreams, making Ba
 
 Instant Closing: Closing an account has never been easier; users can close their accounts instantly.
 
-Testimonials
+Testimonials:
 The Testimonials section showcases the positive experiences of Bankist users:
 
 Users from around the world share their success stories and satisfaction with Bankist's services.
 
 Testimonials are accompanied by photos, names, and locations of the users for authenticity.
 
-Sign Up
+Sign Up:
 The Sign-Up section encourages visitors to open an account with Bankist:
 
 A call-to-action button prompts users to sign up for a free account.
-Footer
+Footer:
 The Footer provides navigation links and information about Bankist:
 
 Navigation links include sections like About, Pricing, Terms of Use, Privacy Policy, Careers, Blog, and Contact Us.
 
 The footer also features the Bankist logo.
 
-Modal
+Modal:
 The Modal offers a streamlined sign-up process:
 
 Users can fill out their first name, last name, and email address to proceed with the account opening process.
@@ -60,3 +60,4 @@ Getting Started
 
 
 Fonts: The Google Fonts library is used to enhance typography, utilizing the Poppins font family.
+Feel free to Contact on <p>"shivanshsharma1507@gmail.com"</p>
